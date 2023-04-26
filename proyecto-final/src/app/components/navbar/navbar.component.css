@@ -1,0 +1,9 @@
+/* Navbar*/
+nav.navbar.navbar-expand-lg.bg-dark.navbar-dark {
+    background: #2d0145 !important;
+}
+
+ul.navbar-nav.mx-5 {
+    --bs-nav-link-color: #fff;
+}
+
